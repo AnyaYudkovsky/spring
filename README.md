@@ -1,1 +1,2 @@
-# spring
+# Spring Boot JPA and Mongo support
+
